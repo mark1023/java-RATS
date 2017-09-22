@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=JobsGUI()
+comment1.params=
+comment1.target=void\ addAllStaff()
+comment1.text=\n\ Adds\ staff\ members\n
+comment2.params=frame
+comment2.target=void\ makeMenus(javax.swing.JFrame)
+comment2.text=\n\ Create\ the\ main\ frame's\ menu\ bar.\n
+comment3.params=
+comment3.target=void\ makeFrame()
+comment3.text=\n\ Create\ the\ Swing\ frame\ and\ its\ content.\n
+comment4.params=
+comment4.target=void\ makeTypes()
+numComments=5
