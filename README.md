@@ -1,4 +1,4 @@
-# javaCCS
+# javaRATS
 Java RATS (Reliable Administration and Translation Service)
 
 This is a program written in Java that I completed as coursework for my MSc Computer Science.
