@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=staffId\ name
+comment0.target=Clerk(java.lang.String,\ java.lang.String)
+comment0.text=\n\ Constructor\n\ @param\ staffId\ is\ the\ staff\ identifier.\n\ @param\ name\ is\ the\ name\ of\ the\ Clerk.\n
+numComments=1
